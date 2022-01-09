@@ -3,7 +3,7 @@ public class StackException extends RuntimeException
 {
    public StackException()
    {
-         super("exception");
+         super("stack exception");
    }
    public StackException(String s)
    {

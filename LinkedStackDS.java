@@ -1,6 +1,4 @@
-//Chaorui Xiang
-//Csc 236-02
-//Lab4#LinkedStackDS
+
 public class LinkedStackDS<T> implements LinkedStackADT<T>
 {
 	private class StackNode<T>

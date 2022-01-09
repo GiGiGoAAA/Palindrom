@@ -1,0 +1,8 @@
+public class StackUnderflowException extends StackException{
+     public StackUnderflowException(){
+     super("stack underflow");
+     }
+     public StackUnderflowException(String s){
+     super(s);
+     }
+}

@@ -1,6 +1,4 @@
-//Chaorui Xiang
-//Csc 236-02
-//Lab4#PalindromDemo
+
 import java.io.IOException;
 import javax.swing.JOptionPane;
 public class PalindromDemo

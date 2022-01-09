@@ -1,6 +1,4 @@
-//Chaorui Xiang
-//Csc 236-02
-//Lab4#StackException
+
 public class StackException extends RuntimeException
 {
    public StackException()

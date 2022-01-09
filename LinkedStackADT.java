@@ -1,6 +1,4 @@
-//Chaorui Xiang
-//Csc 236-02
-//Lab4#LinkedStackADT
+
 public interface LinkedStackADT<T>
 {
     public int size();
